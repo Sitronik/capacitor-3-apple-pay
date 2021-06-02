@@ -1,6 +1,6 @@
 {
   "name": "capacitor-3-apple-pay",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Capacitor 3 plugin to implement payment function via Apple Pay",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
